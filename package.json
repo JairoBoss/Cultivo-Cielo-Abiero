@@ -1,0 +1,25 @@
+{
+  "name": "cultivo-cielo-abiero",
+  "version": "1.0.0",
+  "description": "Repositorio para gidi-steam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JairoBoss/Cultivo-Cielo-Abiero.git"
+  },
+  "author": "JairoBoss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JairoBoss/Cultivo-Cielo-Abiero/issues"
+  },
+  "homepage": "https://github.com/JairoBoss/Cultivo-Cielo-Abiero#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.6"
+  }
+}
